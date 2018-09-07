@@ -1,0 +1,7 @@
+[package]
+name = "binex"
+version = "0.1.0"
+authors = ["TA Thanh Dinh <tathanhdinh@gmail.com>"]
+
+[dependencies]
+quicli = { git = "https://github.com/killercup/quicli.git" }
